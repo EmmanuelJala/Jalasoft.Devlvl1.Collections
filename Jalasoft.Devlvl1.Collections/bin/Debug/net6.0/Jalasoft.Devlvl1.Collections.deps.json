@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jalasoft.Devlvl1.Collections/1.0.0": {
+        "runtime": {
+          "Jalasoft.Devlvl1.Collections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jalasoft.Devlvl1.Collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
